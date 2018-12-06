@@ -8,7 +8,7 @@ set OKR for personal and team development
 ### Key Results
 - Key1 : do 7 github activity in average per week. 
 - Key2 : read 3 book related with backend developement.
-- Key3 : read 10 blog post in average realated with work and done every work in bts within the deadline.
+- Key3 : read 10 blog post per week in average and done every work in bts within the deadline.
 
 ---
 ### Objective 2
