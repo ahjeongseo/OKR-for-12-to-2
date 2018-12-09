@@ -23,5 +23,6 @@ set OKR for personal and team development
 - Being a good ML Researcher
 ### Key Results
 - Key1 : take 1 course about Reinforcement Learning in Youtube until December 15th.
+  https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG
 - Key2 : study 10 papers related with our team objective like RL, Baysian Network, etc.
 - Key3 : implement 1 model related with RL.
